@@ -1,0 +1,19 @@
+.body-image{
+   width:100%;
+   border-radius:10px;
+}
+.image-body-container{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    margin-bottom:15px;
+}
+.img-container{
+    width:90%;
+    text-align:center;
+    margin-top:20px;
+    border:5px solid #99784D;
+    border-radius:10px;
+    box-shadow:0px 0px 12px 10px #d1ac7f;
+    
+}

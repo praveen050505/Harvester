@@ -1,0 +1,11 @@
+.responsive-container{
+    width:100%;
+}
+.video-heading{
+    font-size:20px;
+    margin-bottom:15px;
+}
+.video-container{
+    padding:12px;
+    margin-bottom:20px;
+}

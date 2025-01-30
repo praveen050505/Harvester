@@ -1,0 +1,33 @@
+.our-harvest-heading{
+
+    font-size:20px;
+}
+.harvest-container{
+    padding:10px;
+}
+.vehicles-container{
+    width:100vw;
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+}
+.tactor-1{
+    width:100%;
+    height:80%;
+    border-radius:20px;
+    
+    
+}
+.tactor-2{
+    width:85%;
+    height:80%;
+    border-radius:20px;
+}
+.tactor-container{
+  padding:10px;
+ 
+}
+.tactor-para{
+    text-align:center;
+}

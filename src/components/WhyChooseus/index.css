@@ -1,0 +1,25 @@
+.why-choose-heading{
+    font-size:18px;
+
+}
+.choose-container{
+    padding:10px;
+}
+.choose-container-size{
+    display:flex;
+    flex-direction:row;
+
+}
+.size-container{
+    margin:10px;
+    border:2px solid #E8DECF;
+    padding:10px;
+    border-radius:8px;
+}
+.customer-heading{
+    font-weight:bolder;
+    color:#1C140D;
+}
+.support-para{
+    color:#99784D;
+}

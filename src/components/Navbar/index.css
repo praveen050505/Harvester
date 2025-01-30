@@ -1,0 +1,40 @@
+.navbar{
+   background-color:#E8DECF;
+   display:flex;
+   align-items:center;
+   justify-content:space-between;
+   border-bottom-left-radius:15px;
+   border-bottom-right-radius:15px;
+   padding:2px;
+   padding: left 8px;
+   padding-right:8px;  
+}
+
+.nav-para{
+  font-weight:bold;
+  width:90%;
+  font-size:20px;
+  color:#1C140D;
+  text-align:center;
+}
+@media (max-width:320px){
+    .nav-para{
+        font-size:17px;
+    }
+}
+.nav-icon{
+    font-size:23px;
+    width:10%;
+    margin-top:5px;
+ 
+}
+.navbar-image{
+    width:30px;
+    height:30px;
+    border-radius:25px;
+}
+.sidebar{
+    background-color:#ffffff;
+    width:50%;
+    min-height:100vh;
+}
